@@ -24,5 +24,3 @@ A clean and responsive To-Do List application with a landing page and fully func
 3. Start adding tasks!
 
 ---
-
-© 2025 | Designed by **Akash Dwivedi**
